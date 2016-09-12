@@ -1,0 +1,26 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target 'Base_Structure_JK' do
+
+pod 'AFNetworking'
+pod 'MBProgressHUD'
+pod 'MJExtension'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'FMDB'
+pod 'MJRefresh'
+pod 'IQKeyboardManager'
+
+end
+
+target 'Base_Structure_JKTests' do
+
+end
+
+target 'Base_Structure_JKUITests' do
+
+end
+
